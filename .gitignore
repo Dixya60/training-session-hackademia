@@ -1,0 +1,12 @@
+# ignore .env , env files and folders
+.env
+env/
+# ignore Python cache files
+__pycache__/
+*.pyc
+
+#ignore csv files
+*.csv
+
+#ignore .ipynb files
+*.ipynb
